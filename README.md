@@ -1,6 +1,10 @@
 # ProjetISN
 Space Attack
 
+Projet d'ISN de terminale
+
+Jeu sur PixiJS
+
 Changelog:
 
 V.0.001:
