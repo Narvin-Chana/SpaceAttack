@@ -1,0 +1,39 @@
+#jeu {
+            position: absolute;
+            top: 0;
+            left: 0;
+            cursor: url('lib/HUD/pointer.png'), auto;
+        }
+#textbox {
+	position: absolute;
+	top:0;
+	left:0;
+        margin-top: 35%;
+        margin-left: 25%;
+		display: none;
+	}
+
+input[type="text"]{
+	font-size: 80px;
+	font-family: 'PixelOperator';
+	text-align: center;
+	background-color : transparent;
+	background-image: url('lib/main menu/textInput/inputText.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	border: none;
+	outline: none;
+
+}
+@font-face {
+           font-family: 'PixelOperator'; 
+	   src : url('lib/fonts/PixelOperator.ttf');
+      	   }
+@font-face {
+            font-family: 'PixelOperator-Bold'; 
+	    src : url('lib/fonts/PixelOperator-Bold.ttf');
+           }
+@font-face {
+            font-family: 'PixelOperator8-Bold'; 
+	    src : url('lib/fonts/PixelOperator8-Bold.ttf');
+           }
