@@ -1,9 +1,6 @@
-# ProjetISN
-Space Attack
+# Space Attack
 
-Projet d'ISN de terminale
-
-Jeu sur PixiJS
+## Projet d'ISN de terminale, jeu fait sur PixiJS
 
 Changelog:
 
